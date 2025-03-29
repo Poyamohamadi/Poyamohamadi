@@ -1,4 +1,4 @@
-![](https://github.com/Poyamohamadi/Poyamohamadi/blob/main/image.png)
+
 <!--
 **Poyamohamadi/Poyamohamadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
